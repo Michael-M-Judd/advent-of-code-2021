@@ -1,0 +1,10 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of code for 2021",
+  "main": "index.js",
+  "repository": "git@github.com:Michael-M-Judd/advent-of-code-2021.git",
+  "author": "Michael Judd <m.judd@queensu.ca>",
+  "license": "MIT",
+  "type": "module"
+}
